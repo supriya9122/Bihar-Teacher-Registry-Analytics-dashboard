@@ -8,6 +8,7 @@ Developed an interactive Power BI dashboard to analyze teacher registration data
 - DAX
 - Excel
 - Data Modeling
+- SQL
 
 ## Key Contributions
 - Analyzed and visualized data from 95,195 schools and 726,416 teachers.
