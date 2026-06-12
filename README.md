@@ -21,7 +21,7 @@ Developed an interactive Power BI dashboard to analyze teacher registration data
 - Developed executive-level dashboards to support data-driven decision-making.
 
 ## Dashboard Files
-- TeacherRegistryReport.pdf
+- BiharTeacherRegistryReport.pdf
 
 ## Dashboard Screenshots
 - Executive Overview
